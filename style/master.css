@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+    .row {
+        @apply flex flex-wrap
+    }
+}
+
+@layer components {}
+
+@layer utilities {
+    .customView {
+        transform: perspective(800px) rotateX(20deg);
+    }
+}
+
+@layer theme {}
