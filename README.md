@@ -9,7 +9,7 @@
 
 
 
-- [Demo Project](https://miladkarimi1370.github.io/NewsWebsite/)
+- [Demo Project](https://miladkarimi1370.github.io/changeTheme/)
 
 - Developed by Milad Karimi
 
