@@ -1,10 +1,10 @@
 # change theme with javascript 🙃
 **Hi , this is a simple project that you can see change theme with tailwind and javascript 🌎 **
 
-![Image](https://github.com/user-attachments/assets/4bf700d7-6881-4b90-a748-ec3be87673a5)
+![Image](https://github.com/user-attachments/assets/52c10139-5ad5-4bb7-b99f-bf7d265914e2)
 
 
-![Image](https://github.com/user-attachments/assets/48d48605-0ee0-4996-aaf9-a0b5b311642e)
+![Image](https://github.com/user-attachments/assets/3071dec2-1e30-4e7a-a248-475e2a895648)
 
 
 
